@@ -1,2 +1,3 @@
-# Baxter
-Includes baxter setup documentation and examples
+# setup/
+- A guide to setup the robot for the first time locally.
+- Robot face application.  
